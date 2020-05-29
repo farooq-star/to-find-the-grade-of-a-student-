@@ -35,10 +35,6 @@ int main()
 	}
 	else if(Percentage <= 40)
     {
-    	printf("\n Grade F");
-	}
-	else 
-    {
     	printf("\n Fail");
 	} 
     return 0;
